@@ -12,7 +12,7 @@ python3 -m http.server 9000
 ```
 
 
-Open page [127.0.0.1:9000](http://127.0.0.1:9000) in browser.
+Open page [http://localhost:9000](http://localhost:9000) in browser.
 
 When registring only use strong password
 
